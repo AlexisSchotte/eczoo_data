@@ -16,7 +16,7 @@ description: |
 
   The stabilizer generator matrix of a \([[ n=2\ell,k,d]]\) GB\((a,b)\) code over \(GF(q)\), constructed from polynomials \(a(x)\) and \(b(x)\), can be refined to the form
   \begin{align}
-    H_{X}=(A|B), H_{Z}^{T}=\begin{pmatrix}A\\-B\end{pmatrix}~,
+    H_{X}=(A|B),\; H_{Z}^{T}=\begin{pmatrix}B\\-A\end{pmatrix}~,
   \end{align}
   where \(\ell\times\ell\) are circulant matrices \(A=a(P)\) and \(B=b(P)\), and \(P\) is the permutation matrix of a one-step length-\(\ell\) cyclic shift.
 
