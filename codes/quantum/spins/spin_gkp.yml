@@ -5,7 +5,7 @@
 
 code_id: spin_gkp
 physical: spins
-logical: spins
+logical: qudits
 
 name: 'Spin GKP code'
 introduced: '\cite{arXiv:2211.05181}'
@@ -19,7 +19,7 @@ features:
   encoders:
     - 'Linear combination of unitaries method \cite{arxiv:1412.4687,arXiv:1610.06546,arXiv:2203.08882}, which may be applicable to more general codewords.'
   general_gates:
-    - 'Approximate Clifford-group generators are composed of Hamiltonians at most quadratic in angular momentum operators of two spin systems. Assuming that these generators can be implemented with high fidelity, a magic state can be prepared from an atomic ensemble analog of the vacuum state'
+    - 'Approximate Clifford-group generators are composed of Hamiltonians at most quadratic in angular momentum operators of two spin systems. Assuming that these generators can be implemented with high fidelity, a magic state can be prepared from an atomic ensemble analog of the vacuum state.'
 
 
 relations:
@@ -27,7 +27,7 @@ relations:
     - code_id: single_spin
   cousins:
     - code_id: gkp
-      detail: 'Spin-GKP code construcions utilize the Holstein-Primakoff mapping \cite{doi:10.1103/PhysRev.58.1098} (see also \cite{doi:10.2307/3212170}) to convert various expressions for GKP states into codes for spin systems.'
+      detail: 'Spin-GKP code constructions utilize the Holstein-Primakoff mapping \cite{doi:10.1103/PhysRev.58.1098} (see also \cite{doi:10.2307/3212170}) to convert various expressions for square-lattice GKP states into codes for spin systems.'
 
 
 # Begin Entry Meta Information

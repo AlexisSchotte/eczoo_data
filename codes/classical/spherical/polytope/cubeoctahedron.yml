@@ -21,9 +21,11 @@ relations:
   parents:
     - code_id: polytope
     - code_id: lattice_shell
+      detail: 'Cubeoctahedron codewords form the minimal shell of the \(D_3\) face-centered cubic (fcc) lattice.'
   cousins:
     - code_id: dthree
-      detail: 'Cubeoctahedron codewords form the smallest shell of the \(D_3\) face-centered cubic (fcc) lattice.'
+      detail: 'Cubeoctahedron codewords form the minimal shell of the \(D_3\) face-centered cubic (fcc) lattice.'
+
 
 # Begin Entry Meta Information
 _meta:

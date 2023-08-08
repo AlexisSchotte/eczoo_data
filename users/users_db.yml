@@ -31,7 +31,81 @@
 
 #
 # Code Contributors -- leave out 'zooteam:'.
+
+
 #
+
+- user_id: ShankarBalasubramanian
+  name: 'Shankar N. Balasubramanian'
+
+- user_id: M10T
+  name: 'Milan Tenn'
+  githubusername: M10T
+
+- user_id: AlexCowtan
+  name: 'Alexander Cowtan'
+  githubusername: alexcowtan
+  gscholaruser: lBTgt3cAAAAJ
+
+- user_id: MichaelLiu
+  name: 'Michael Liu'
+
+- user_id: YaleFan
+  name: 'Yale Fan'
+
+- user_id: RenyuWang
+  name: 'Renyu Wang'
+
+- user_id: nathanan
+  name: 'Nathanan Tantivasadakarn'
+  gscholaruser: QUj3lAIAAAAJ
+
+- user_id: KeLiu
+  name: 'Ke Liu (刘科 子竞)'
+  gscholaruser: 9Xn3T6EAAAAJ
+
+- user_id: ChristopheVuillot
+  name: 'Christophe Vuillot'
+  gscholaruser: G6IqzFIAAAAJ
+  githubusername: ChristopheVuillot
+
+- user_id: JasSidhu
+  name: 'Jasminder Sidhu'
+  gscholaruser: jFHb8uQAAAAJ
+
+- user_id: YaronJarach
+  name: 'Yaron Jarach'
+
+- user_id: ShubhamPJain
+  name: 'Shubham P. Jain'
+  githubusername: shubhamj810
+
+- user_id: Baobach
+  name: 'Bao Bach'
+  githubusername: bachbao
+
+- user_id: SarahMengLi
+  name: 'Sarah Meng Li'
+  gscholaruser: 'PvIx1RcAAAAJ'
+  githubusername: SarahMLi
+
+- user_id: BaileyGu
+  name: 'Shouzhen (Bailey) Gu'
+
+- user_id: VikramAmin
+  name: 'Vikram Elijah Amin'
+
+- user_id: SamGunn
+  name: 'Sam Gunn'
+  gscholaruser: 'KOUwHVYAAAAJ'
+
+- user_id: khalilguy
+  name: 'Khalil Guy'
+  gscholaruser: 'KTjDjOEAAAAJ'
+
+- user_id: IvanBurenkov
+  name: 'Ivan A. Burenkov'
+  gscholaruser: 'KTjDjOEAAAAJ'
 
 - user_id: MengCheng
   name: 'Meng Cheng (程蒙)'
@@ -110,7 +184,7 @@
 - user_id: SeyedSajjadNezhadi
   name: 'Seyed Sajjad Nezhadi'
   githubusername: sajjad-nezhadi
-  pageurl: 'sajjad-nezhadi.github.io'
+  pageurl: 'https://sajjad-nezhadi.github.io'
 
 - user_id: QingfengKeeWang
   name: 'Qingfeng (Kee) Wang'
@@ -190,6 +264,7 @@
 
 - user_id: AlexisSchotte
   name: 'Alexis Schotte'
+  githubusername: 'AlexisSchotte'
 
 - user_id: DavidAasen
   name: 'David Aasen'
@@ -304,6 +379,21 @@
 - user_id: GraceSommers
   name: 'Grace Sommers'
 
+- user_id: balopat
+  name: 'Balint Pato'
+  gscholaruser: 'mnNvWjkAAAAJ'
+  githubusername: balopat
+  pageurl: 'https://refactorium.com/'
+
+- user_id: MarcusPS
+  name: 'Marcus P da Silva'
+  githubusername: marcusps
+  gscholaruser: 'qsKgI6AAAAAJ'
+
+- user_id: ChrisPattison
+  name: 'Christopher A. Pattison'
+  githubusername: chrispattison
+  gscholaruser: '4neYf8oAAAAJ'
 
 #
 # Core members -- add 'zooteam: core' and 'zoorole: <role>' to each entry.
