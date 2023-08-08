@@ -99,6 +99,8 @@ relations:
 _meta:
   # Change log - most recent first
   changelog:
+    - user_id: AlexisSchotte
+      date: '2023-08-08'
     - user_id: VictorVAlbert
       date: '2023-05-02'
     - user_id: LeonidPryadko
